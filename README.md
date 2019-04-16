@@ -4,7 +4,7 @@
 Создавалось с помощью инструмента Katalon Recorder, установленного на Firefox
 Для тестирования приложения использовался сайт по расчету НДС https://ndscalc.ru/
 
-Katalon Recorder 3.7.0.htm - это тест-сьют для импорта в  Katalon Recorder
+Проверка НДС калькулятора.html - это тест-сьют для импорта в  Katalon Recorder
 
 
 1 Default values.java 
